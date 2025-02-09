@@ -44,6 +44,5 @@
 
 ### Explore the interactive dashboard and analyze sales trends.
 
-## 📸 Dashboard Screenshots
-![Image Description](images/diwali sales  image)
+
 
